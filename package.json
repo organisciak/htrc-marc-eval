@@ -1,0 +1,19 @@
+{
+  "name": "htrc-marc-eval",
+  "version": "1.0.0",
+  "description": "Print fields from an HTRC MARC record",
+  "dependencies": {
+    "async": "^1.5.0",
+    "lodash": "^3.10.1",
+    "xml2js": "^0.4.15",
+    "request": "^2.65.0",
+    "yargs": "^3.31.0"
+  },
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Organisciak",
+  "license": "NCSA"
+}
